@@ -1,6 +1,4 @@
-kapelusze:
-
-złośliwy adwersarz złapał dwa króliki i posadził w sali na przeciwko siebie. Sytuacja się zaognia, ponieważ adwersarz proponuje królikom grę - jeżeli króliki zwyciężą z adwersarzem, ten je wypuści.
+Złośliwy adwersarz złapał dwa króliki i posadził w sali na przeciwko siebie. Sytuacja się zaognia, ponieważ adwersarz proponuje królikom grę - jeżeli króliki zwyciężą z adwersarzem, ten je wypuści.
 
 Gra polega na tym, że adwersarz zakłada królikom na głowę kapelusze w kolorze białym lub czarnym. Królik nie widzi swojego kapelusza, ale widzi kapelusz królika na przeciwko. Na trzy-cztery oba króliki zgadują kolor kapelusza, który mają na głowie (chociaż go oczywiście nie widzą). Jeżeli choć jeden królik odpowie poprawnie, adwersarz daruje im życie. Jeżeli żaden królik nie zgadnie koloru swojego kapelusza, adwersarz zabije oba króliki.
 
